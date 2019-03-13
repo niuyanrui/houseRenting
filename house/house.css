@@ -1,0 +1,54 @@
+.homepage-topimage
+{
+    display: block;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 450px;
+}
+.card{
+    margin: 10%;
+    margin-top: 20%;
+    width: 18rem;
+}
+/*.cardbody{
+    justify-content: center;
+}*/
+#select-Information,#screen
+{
+    margin: 3%;
+}
+#imageOfHouse{
+   
+    margin-left: 5%;
+}
+#card
+{
+    margin-bottom: 3%;
+}
+#buy
+{
+    margin: 3%;
+}
+.head{
+    border-radius: 50%;
+    height: 48px;
+    height: 48px;
+}
+/*#contain
+{
+    margin-top: 10%;
+}*/
+.input-group{
+    margin: 30px;
+}
+#submit,#pay{
+    position  : absolute;
+top       : 95%;
+left      : 50%;
+transform : translate(-50%,-50%);  
+    
+}
+.h1{
+    text-align: center;
+}
